@@ -2,11 +2,10 @@ package com.ge.oilandgas.oregen;
 
 public class Persona {
 
-	//ciao
 	private int eta;
 	private String nome;
 	private String cognome;
-	//aaaa
+
 	public String getNome() {
 		return nome;
 	}
